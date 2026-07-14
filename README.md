@@ -2,8 +2,6 @@
 
 Hihafest adalah platform web komprehensif untuk penjualan tiket konser secara online. Proyek ini terdiri dari aplikasi frontend untuk pelanggan dan admin, serta backend yang mengelola transaksi, inventaris tiket, dan autentikasi.
 
-## Link Demo Website
-https://hiha-fest.vercel.app/
 
 ## Frontend
 https://github.com/daffayuza/FE-Hiha-Fest.git
